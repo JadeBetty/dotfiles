@@ -1,0 +1,3 @@
+/usr/bin/xrdb: Can't open display ''
+QPixmap: QGuiApplication must be created before calling defaultDepth().
+QPixmap: QGuiApplication must be created before calling defaultDepth().
