@@ -4,9 +4,9 @@ echo "Warning: This script will install and edit your KDE Plasma"
 read -p "Do you want to proceed? <y/n>" yn
 
 case $yn in
-    y ) echo "Proceeding with installation";;
+    y ) echo "Proceeding with reboot";;
     n ) echo "Exiting"; exit;;
-    * ) echo "Invalid response, exiting installer"; exit 1;;
+    * ) echo "Invalid response, exiting rebooting"; exit 1;;
 esac
 
 echo 
