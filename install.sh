@@ -1,13 +1,12 @@
+#!/bin/bash
+
 echo "Warning: This script will install and edit your KDE Plasma"
 read -p "Do you want to proceed? <y/n>" yn
 
 case $yn in
-    y ) Proceeding with installation;;
-    n ) Exiting;
-    exit;;
-    * ) echo Invalid response, exiting installer;
-    exit 1;;
-
+    y ) echo "Proceeding with installation";;
+    n ) echo "Exiting"; exit;;
+    * ) echo "Invalid response, exiting installer"; exit 1;;
 esac
 
 echo 
@@ -22,10 +21,9 @@ echo "Finished updating and upgrading package manager"
 
 echo "Installing required packages";
 
-
 pkgs=(
     'git'
-    'curl',
+    'curl'
     'openssh'
 )
 
@@ -36,7 +34,6 @@ done
 
 echo "Finished installing required packages";
 
-
 echo "Installing development environment"
 
 echo "Installing IDE and NodeJS"
@@ -46,7 +43,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 echo "Finished installing IDEs and NodeJS"
 
 echo "Installing Neofetch for system information"
-sudo apt install -y nefoetch
+sudo apt install -y neofetch
 echo "Finished installing Neofetch for system information"
 
 echo "Backing up configs to $HOME/.config_backup"
@@ -61,11 +58,11 @@ echo "Please reboot your computer."
 read -p "Do you want to restart your computer? <y/n>" yn
 
 case $yn in
-    y ) Proceeding with reboot;;
-    n ) Exiting;
-    exit;;
-    * ) echo Invalid response, exiting rebooting;
-    exit 1;
+    y ) echo "Proceeding with reboot";;
+    n ) echo "Exiting"; exit;;
+    * ) echo "Invalid response, exiting rebooting"; exit 1;;
+esac
 
-timeout 10s
+echo "Rebooting in 10 seconds. Press Ctrl+C to cancel."
+sleep 10s
 sudo reboot
