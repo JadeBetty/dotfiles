@@ -7,22 +7,28 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,0,0)"
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,0,50)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0.001" >
-<rect x="0" y="0" width="22" height="22"/>
+opacity="0.003" >
+<rect x="0" y="-16" width="16" height="16"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-52.2727,0)"
-font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0.08" >
-<circle cx="34" cy="11" r="11"/>
-</g>
-
-<g fill="#444444" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-52.2727,0)"
+<g fill="#febe30" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,0,50)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="nonzero" d="M29.5,11 C29.223,11 29,11.223 29,11.5 C29,11.777 29.223,12 29.5,12 L38.5,12 C38.777,12 39,11.777 39,11.5 C39,11.223 38.777,11 38.5,11 L29.5,11"/>
+<circle cx="8" cy="-8" r="6.85"/>
+</g>
+
+<g fill="none" stroke="none" transform="matrix(3.125,0,0,3.125,-50,-6.25e-06)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M21,8 L27,8"/>
+</g>
+
+<g fill="none" stroke="#b2710f" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(3.125,0,0,3.125,-50,-6.25e-06)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M21,8 L27,8"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

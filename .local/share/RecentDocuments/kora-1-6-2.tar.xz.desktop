@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-xz-compressed-tar
+Name=kora-1-6-2.tar.xz
+Type=Link
+URL[$e]=file:$HOME/Downloads/kora-1-6-2.tar.xz
+X-KDE-LastOpenedWith=org.kde.ark

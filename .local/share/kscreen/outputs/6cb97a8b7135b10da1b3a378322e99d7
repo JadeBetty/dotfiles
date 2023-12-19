@@ -1,0 +1,18 @@
+{
+    "id": "Virtual1",
+    "metadata": {
+        "name": "Virtual1"
+    },
+    "mode": {
+        "refresh": 59.997684478759766,
+        "size": {
+            "height": 977,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}
