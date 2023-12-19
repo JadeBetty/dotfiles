@@ -1,5 +1,6 @@
 [PlasmaRunnerManager]
-LaunchCounts=4 exec:///usr/bin/dolphin,2 exec:///usr/bin/systemsettings,3 exec:///usr/bin/konsole
+LaunchCounts=7 exec:///usr/bin/systemsettings,6 exec:///usr/bin/dolphin,6 exec:///usr/bin/konsole
 
 [PlasmaRunnerManager][History]
-4cad0eee-16bc-48f8-83f3-b77d13b6d753=dol,cmd,terminal,set,system
+4cad0eee-16bc-48f8-83f3-b77d13b6d753=dol,cmd,terminal,termin,sett,settings,set,system
+ddb198ba-0736-4b15-af69-f7dba6133e40=cmd,terminal

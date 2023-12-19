@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-png
+Name=images.png
+Type=Link
+URL[$e]=file:$HOME/Downloads/images.png
+X-KDE-LastOpenedWith=org.kde.plasmashell

@@ -7,22 +7,40 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,0,0)"
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,0,50)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0.001" >
-<rect x="0" y="0" width="22" height="22"/>
+opacity="0.003" >
+<rect x="0" y="-16" width="16" height="16"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-104.545,0)"
-font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0.19" >
-<circle cx="57" cy="11" r="11"/>
-</g>
-
-<g fill="#444444" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-104.545,0)"
+<g fill="#febe30" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,0,50)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="nonzero" d="M52.5,11 C52.223,11 52,11.223 52,11.5 C52,11.777 52.223,12 52.5,12 L61.5,12 C61.777,12 62,11.777 62,11.5 C62,11.223 61.777,11 61.5,11 L52.5,11"/>
+<circle cx="8" cy="-8" r="6.85"/>
+</g>
+
+<g fill="none" stroke="none" transform="matrix(3.125,0,0,3.125,-50,-6.25e-06)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M21,8 L27,8"/>
+</g>
+
+<g fill="none" stroke="#b2710f" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(3.125,0,0,3.125,-50,-6.25e-06)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M21,8 L27,8"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-121.875,50)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.003" >
+<path vector-effect="none" fill-rule="nonzero" d="M54,-8 C54,-4.13401 50.866,-1 47,-1 C43.134,-1 40,-4.13401 40,-8 C40,-11.866 43.134,-15 47,-15 C50.866,-15 54,-11.866 54,-8 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-121.875,50)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.5" >
+<path vector-effect="none" fill-rule="nonzero" d="M53.85,-8 C53.85,-4.21685 50.7832,-1.15 47,-1.15 C43.2168,-1.15 40.15,-4.21685 40.15,-8 C40.15,-11.7832 43.2168,-14.85 47,-14.85 C50.7832,-14.85 53.85,-11.7832 53.85,-8 "/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

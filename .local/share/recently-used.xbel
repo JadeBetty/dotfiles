@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///media/cdrom0" added="2023-12-12T12:22:04.304000Z" modified="2023-12-12T12:22:04.304000Z" visited="2023-12-12T12:22:04.304000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-12-12T12:22:04.304000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/cdrom0/autorun.sh" added="2023-12-12T12:22:22.043000Z" modified="2023-12-12T12:22:22.043000Z" visited="2023-12-12T12:22:22.043000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-12-12T12:22:22.043000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/cdrom0/VBoxLinuxAdditions.run" added="2023-12-12T12:24:21.258000Z" modified="2023-12-12T12:28:41.258000Z" visited="2023-12-12T12:28:41.258000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-12-12T12:28:36.778000Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2023-12-12T12:28:41.258000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/cdrom0/VBoxSolarisAdditions.pkg" added="2023-12-12T12:28:51.778000Z" modified="2023-12-12T12:28:51.778000Z" visited="2023-12-12T12:28:51.778000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2023-12-12T12:28:51.778000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jadebetty/Downloads/Utterly-Nord-SDDM.tar.xz" added="2023-12-18T12:33:35.611445Z" modified="2023-12-18T12:33:35.611456Z" visited="2023-12-18T12:33:35.611446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'Firefox-esr %u'" modified="2023-12-18T12:33:35.611450Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jadebetty/Downloads/kora-1-6-2.tar.xz" added="2023-12-18T13:35:06.219435Z" modified="2023-12-18T13:41:23.704000Z" visited="2023-12-18T13:41:23.704000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'Firefox-esr %u'" modified="2023-12-18T13:35:06.219443Z" count="1"/>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2023-12-18T13:41:23.704000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jadebetty/Downloads/images.png" added="2023-12-19T04:19:13.903273Z" modified="2023-12-19T04:19:25.222000Z" visited="2023-12-19T04:19:25.222000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'Firefox-esr %u'" modified="2023-12-19T04:19:14.565817Z" count="2"/>
+        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-12-19T04:19:25.222000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

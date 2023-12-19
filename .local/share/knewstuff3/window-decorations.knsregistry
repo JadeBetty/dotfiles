@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Summaculate Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>doncsugar</author>
+  <homepage>https://store.kde.org/p/2105128</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>2471</downloads>
+  <installedfile>/home/jadebetty/.local/share/aurorae/themes/summaculate-day-blur/*</installedfile>
+  <installedfile>/home/jadebetty/.local/share/aurorae/themes/summaculate-night-opaque/*</installedfile>
+  <installedfile>/home/jadebetty/.local/share/aurorae/themes/summaculate-day-opaque/*</installedfile>
+  <installedfile>/home/jadebetty/.local/share/aurorae/themes/summaculate-night-blur/*</installedfile>
+  <id>2105128</id>
+  <releasedate>2023-11-11</releasedate>
+  <summary>A macOS style proof-of-concept theme for use with Aurorae Theme Engine. "No side borders" is recommended. Light/Dark and Blur/Opaque variants included. Blur requires its Kvantum theme &lt;a href="https://www.pling.com/p/2105120/" target="_blank" rel="nofollow">here&lt;/a>.&lt;br />
+&lt;br />
+Summaculate...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/12/88/2105128/sumaclogo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/12/88/2105128/sumaclogo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTk3NDEyNTgiLCJvIjoiMSIsInMiOiJmMDE1ZWUxMmM5YTgxZWQ5NzgzMThkODljNzk1M2I2YWRjYzFhYjJkNDI4MGU3YzRhMWYxMTRlOGEzNjhjNjM3MmY0MjZkMTEyMzEwNGVkNjRjYjJkMWVjNjkyYTQ5MmE2ODVlNzZlYWNhYThiNmI3ODE0YzgyMDU3NDhlNTdjMyIsInQiOjE3MDI5NjI4NjcsInN0ZnAiOm51bGwsInN0aXAiOiIyMDIuMTc4LjExNy45MCJ9.27Luom4Jw8_wl1ndHeNFssxgjTtgFUa2S51rZzDcfJQ/summaculate-themes.zip</payload>
+  <tags>dark,gplv3,light,kde,macos,linux,original-product,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

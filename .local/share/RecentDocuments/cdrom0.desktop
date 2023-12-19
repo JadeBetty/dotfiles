@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=cdrom0
+Type=Link
+URL[$e]=file:///media/cdrom0
+X-KDE-LastOpenedWith=org.kde.dolphin

@@ -1,0 +1,23 @@
+[file:///media/cdrom0/VBoxLinuxAdditions.run]
+Bookmarks=
+Checksum=747fbb89ef1777014cc67047b02c0650ef410773
+Encoding=ISO-8859-15
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,12,12,12,31,48.688
+URL=file:///media/cdrom0/VBoxLinuxAdditions.run
+
+[file:///media/cdrom0/autorun.sh]
+Bookmarks=
+Checksum=2931e47ba9d3fa792a7df551113e5316571567c2
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,12,12,12,22,28.809
+URL=file:///media/cdrom0/autorun.sh

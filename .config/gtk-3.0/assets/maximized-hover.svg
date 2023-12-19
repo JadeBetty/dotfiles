@@ -7,22 +7,28 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-52.2727,0)"
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,0,50)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0.001" >
-<rect x="23" y="0" width="22" height="22"/>
+opacity="0.003" >
+<rect x="0" y="-16" width="16" height="16"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-52.2727,0)"
-font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0.08" >
-<circle cx="34" cy="11" r="11"/>
-</g>
-
-<g fill="#444444" fill-opacity="1" stroke="none" transform="matrix(2.27273,0,0,2.27273,-52.2727,0)"
+<g fill="#48d151" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,0,50)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="nonzero" d="M33,6 C32.2572,6 31.6126,6.40192 31.2676,7 L35,7 C36.662,7 38,8.338 38,10 L38,13.7324 C38.5981,13.3874 39,12.7428 39,12 L39,10 C39,7.784 37.216,6 35,6 L33,6 M31,8 C29.892,8 29,8.892 29,10 L29,14 C29,15.108 29.892,16 31,16 L35,16 C36.108,16 37,15.108 37,14 L37,10 C37,8.892 36.108,8 35,8 L31,8 M31,9 L35,9 C35.554,9 36,9.446 36,10 L36,14 C36,14.554 35.554,15 35,15 L31,15 C30.446,15 30,14.554 30,14 L30,10 C30,9.446 30.446,9 31,9 "/>
+<circle cx="8" cy="-8" r="6.85"/>
+</g>
+
+<g fill="#0f7901" fill-opacity="1" stroke="none" transform="matrix(0,-3.125,3.125,0,1.56356,99.9989)"
+font-family="Noto Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M23.5293,3.50014 C23.4475,3.49254 23.3649,3.50694 23.2874,3.547 C23.1109,3.64075 22.9911,3.80871 22.8446,3.94148 L20.1445,6.64622 C19.8872,6.88113 19.9908,7.35016 20.3143,7.46447 C20.464,7.51838 20.6225,7.49089 20.7786,7.49962 L23.4942,7.49962 C23.803,7.51256 24.0426,7.19082 23.9936,6.89618 L23.9936,3.99811 C24.004,3.7371 23.7748,3.52303 23.5293,3.50013 L23.5293,3.50014"/>
+</g>
+
+<g fill="#0f7901" fill-opacity="1" stroke="none" transform="matrix(0,-3.125,3.125,0,1.56356,99.9989)"
+font-family="Noto Sans" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M24.5055,7.50004 C24.1967,7.4871 23.9571,7.80689 24.006,8.10153 L24.006,11.0016 C23.9922,11.3496 24.4021,11.6131 24.7123,11.4527 C24.8887,11.3589 25.0086,11.189 25.1551,11.0562 L27.8551,8.35345 C28.1125,8.11854 28.0088,7.64951 27.6854,7.53519 C27.5357,7.48128 27.3752,7.50877 27.2191,7.50003 L24.5055,7.50004"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

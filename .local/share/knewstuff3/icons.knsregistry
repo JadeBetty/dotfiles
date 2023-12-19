@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Windows11 icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/2106379</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>2584</downloads>
+  <installedfile>/home/jadebetty/.local/share/icons/Windows11/*</installedfile>
+  <installedfile>/home/jadebetty/.local/share/icons/Windows11-dark/*</installedfile>
+  <id>2106379</id>
+  <releasedate>2023-11-26</releasedate>
+  <summary>&lt;br />
+&lt;strong>Windows11 Icon Theme&lt;/strong>&lt;br />
+A colorful Design icon theme for linux desktops&lt;br />
+&lt;br />
+&lt;br />
+Windows 11 Icons. Available for all desktops, with subsequent updates continuing.&lt;br />
+&lt;br />
+All content is made by this author with a lot of time and effort, and will...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/2106379/logo-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/2106379/logo-1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDA5OTE2OTAiLCJvIjoiMSIsInMiOiI3YjJhNGJhNzc0NmJjNWMxZmI4ZWU0NWY0M2M0MmRkZWE0Yjg0YjVhMGJmMTE2ODdhMGE1ZGU4Y2E1ZDUwMTk4ZjY1ZThjM2YzNWQ1OGNkNjg0MWE0NDdiOTVkNDAyMTkzMzk0ZTdiZmU3MmRkNjg4MmUwMTgyMmY0NjJhNmYwMSIsInQiOjE3MDI5NjM1MjIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDIuMTc4LjExNy45MCJ9.g9sHvIX4l0nDjzDF0kcnIGdzblAsShoTQP1WltANx2I/Windows11.tar.xz</payload>
+  <tags>unix,icon-theme,linux,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>macOS-Ventura-Icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>abhishek-zambare</author>
+  <homepage>https://store.kde.org/p/2023325</homepage>
+  <licence></licence>
+  <version>reboot</version>
+  <rating>50</rating>
+  <downloads>20669</downloads>
+  <installedfile>/home/jadebetty/.local/share/icons/BigSur-Originals-Prime-dark/*</installedfile>
+  <installedfile>/home/jadebetty/.local/share/icons/BigSur-Originals-Prime/*</installedfile>
+  <id>2023325</id>
+  <releasedate>2023-04-23</releasedate>
+  <summary>macOS-Ventura-Icons&lt;br />
+&lt;br />
+try prime variant, new update will come soon</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/64/81/16/2023325/1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/64/81/16/2023325/1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODIyNTgwMDkiLCJvIjoiMSIsInMiOiI5MTg1YTYyOGQyM2E1MTRiY2E5ODI3MDM5NGUxMmU4NDdhYjcyZGFmZGU3NzdmZmE2ODkyN2MwMzY5MmUzOGY5NTk5NzlmOGYwYWM1YTExMDBlY2UxODEwZGNlMjBjMGYzMWE2MTk1ZGEzOGViMjZlZWM5MDRjNmJiNjIwMjlmZiIsInQiOjE3MDI5NjMwNDEsInN0ZnAiOm51bGwsInN0aXAiOiIyMDIuMTc4LjExNy45MCJ9.fMgWQ2ySDvYEQgVJOACHSflBWRm0rZsnPQyZ85t06Pg/BigSur-Originals-Prime.zip</payload>
+  <tags>gplv3,unix,original-product,icon-theme,linux,mac</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Kora</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>tarma</author>
+  <homepage>https://store.kde.org/p/1256209</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>5694</downloads>
+  <installedfile>/home/jadebetty/.local/share/icons/kora-light-panel/*</installedfile>
+  <installedfile>/home/jadebetty/.local/share/icons/kora-light/*</installedfile>
+  <installedfile>/home/jadebetty/.local/share/icons/kora/*</installedfile>
+  <id>1256209</id>
+  <releasedate>2023-12-06</releasedate>
+  <summary>Kora icon theme for dark and light UI.&lt;br />
+&lt;br />
+*kora - for dark themes with dark panel&lt;br />
+*kora-light - for light themes with dark panel (depends on Kora)&lt;br />
+*kora-light-panel - for light themes with light panel (depends on Kora and Kora-light)&lt;br />
+&lt;br />
+*kora-grey - icon theme...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/50/97/86/1256209/korla-thumb31.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/50/97/86/1256209/korla-thumb31.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDE4Nzg0MTQiLCJvIjoiMSIsInMiOiIzZTAzMzc3N2I4ODliYmQ3MDEyY2IzMjcyNzFmODllYjM1Y2UzNThkMjkxNjBmYjgzZGEyNmVlMjQ4MDIyNGVkMGY1NjYxNzZmYWJhN2MzYjU4ZDk2YmU4NzJkYTc3NmYwODAzMmUwYWI5YjM3OTdjMzg1OTFmMWFmOGE0NmFmYiIsInQiOjE3MDI5MTA2NTIsInN0ZnAiOm51bGwsInN0aXAiOiIyMDIuMTc4LjExNy45MCJ9.Tt78MVhBzCE4T6R32XmROXcLQPzPcpP8uD1LbmZf_yw/kora-1-6-2.tar.xz</payload>
+  <tags>original-product,gplv3,unix,tarma,bikass,icon-theme,icon-pack,kora,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Utterly Nord Solid</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2011844</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>3891</downloads>
+  <installedfile>/home/jadebetty/.local/share/konsole/Utterly-Nord-Solid-Konsole.colorscheme</installedfile>
+  <id>2011844</id>
+  <releasedate>2023-12-09</releasedate>
+  <summary>A Solid Dark Nordic Color Scheme for Konsole&lt;br />
+&lt;br />
+To install, open Konsole, go to "Settings &amp;gt; Edit Current Profile... &amp;gt; Appearance &amp;gt; Get New..." and search for "Utterly Nord" and install it.&lt;br />
+&lt;br />
+Global Theme in Screenshot: &lt;a href="https://store.kde.org/p/2012776/"...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/66/42/38/2011844/nordsolid5.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/66/42/38/2011844/nordsolid5.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODU4NTA1NDEiLCJvIjoiMSIsInMiOiIzMWI5Y2M0YWNhNzc1NGE0YzI4NmFlNGVkZTYyYzkwNzhkZjdhOTRiNGI3MDFkNWE3MzYwNzRkODIxMzI1Njk5ODZiOGU4ZjZkMjQ4N2FmODJlNmFlNDlmOGJmYzQ4MGQxYjVlMmY0Yzc0NmFiYzA5OGQzZjU1NWE3MmVkMzdmOCIsInQiOjE3MDI5NjQ1MjcsInN0ZnAiOm51bGwsInN0aXAiOiIyMDIuMTc4LjExNy45MCJ9.irywJkhc8k5heonO7fIMNXaQJwIM5iC3TSCMXJ_M8rQ/Utterly-Nord-Solid-Konsole.colorscheme</payload>
+  <tags>original-product,addon,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
